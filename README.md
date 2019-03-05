@@ -1,2 +1,3 @@
 # WhatAmIDoing
-log of what I've been Doing. 
+log of what I've been Doing.
+This is Test Text.
