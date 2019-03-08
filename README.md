@@ -2,4 +2,5 @@
 log of what I've been Doing.
 This is Test Text.
 Okay
-#MArkdown makes it so beautiful
+
+#Markdown makes it so beautiful :smile:
